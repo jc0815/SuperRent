@@ -1,0 +1,67 @@
+/* ----------------
+    BUTTON 
+   ----------------*/
+.content .button {
+    background-color: #000;
+    border: none;
+    color: #fff;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 3px;
+}
+.content .button:hover {
+    background-color: #444;
+}
+
+/* ----------------
+    SELECT DROPDOWN 
+   ----------------*/
+.content .select {
+    background-color: #000;
+    border: none;
+    color: #fff;
+    border-radius: 0;
+}
+
+/* ----------------
+    TABLE
+   ----------------*/
+.table {
+    position: fixed;
+    width: 80%;
+    left: 10%;
+    top: 3.5rem;
+    background-color: #000 !important;
+    opacity: 0.8;
+    color: #99c2ff !important;
+    border-radius: 10px;
+}
+.table-description {
+    font-weight: bold;
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important;
+}
+.table-header {
+    margin-left: 5rem;
+    margin-bottom: -1rem;
+    color: #3385ff;
+}
+.table-entry {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 1rem !important;
+    margin-top: 0.5rem !important;
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+.table-close {
+    color: #fff;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+.table-close:hover {
+    color: #888;
+}
